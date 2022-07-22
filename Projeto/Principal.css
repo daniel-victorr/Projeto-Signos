@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(rgb(41, 5, 59),rgb(6, 0, 59));
+}
+img{
+    height: 150px;
+    width: 200px;
+    margin-left: 110px;
+    margin-top: 18px;
+    box-shadow: 3px 3px 3px rgb(185, 140, 252);
+    border-radius: 10px;
+   
+}
+div#footer{
+    margin-top: 15px;
+}
+
+div#section{
+    margin-top: 15px;  
+}
+
+div#header{
+    margin-top: 15px;
+}
+div#titulo{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+    
