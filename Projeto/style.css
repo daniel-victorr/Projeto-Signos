@@ -1,6 +1,6 @@
 body{
     font-family: normal 15pt Arial;
-    background: rgba(0, 41, 40);
+    background-image: linear-gradient(rgb(1, 68, 70),rgb(1, 8, 8))
 }
 
 h1{
