@@ -23,7 +23,9 @@ body{
 
 .box-galeria:hover .single-box{
     transform: scale(1.1);
+
 }
+
 .box-galeria{
     width:200px ;
     height:200px ;
