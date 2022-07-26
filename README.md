@@ -1,1 +1,2 @@
-<h2>Projeto para identificar qual animal tem a personalidade do seu signo</h2>
+<h1>Projeto Signo</h1>
+<p>Um projeto para identificar qual é a sua personalidade de acordo com o seu signo.</p>
